@@ -199,15 +199,18 @@ O DevOps está evoluindo para novas vertentes que utilizam tecnologias de ponta:
 ### 8.3. O Impacto da Sustentabilidade (GreenOps)
 Uma tendência crescente é o **GreenOps**, onde o foco do DevOps também passa a ser a eficiência energética. As ferramentas de monitoramento agora medem não apenas a velocidade, mas também o consumo de carbono dos servidores na nuvem, otimizando o código para ser mais sustentável.
 
+---
+
 # 9. Conclusão
 
 Ao analisarmos a metodologia DevOps, fica evidente que não estamos lidando apenas com um conjunto de ferramentas tecnológicas, mas sim com uma profunda **mudança de cultura e mentalidade** no desenvolvimento de software. 
 
 No modelo tradicional, existia uma barreira entre quem criava o código e quem mantinha o sistema no ar, o que frequentemente gerava atrasos, falhas de comunicação e retrabalho. O DevOps chega para derrubar esse muro, estabelecendo que o sucesso do produto é uma **responsabilidade compartilhada** desde o planejamento até o monitoramento em produção.
 
-Através dos pilares que exploramos — como a automação de processos, o feedback contínuo e a integração de segurança (DevSecOps) — as organizações conseguem atingir um nível de agilidade que antes era impossível. É essa abordagem que permite que grandes plataformas entreguem atualizações constantes com alta confiabilidade e segurança.
+Através dos pilares que exploramos como a automação de processos, o feedback contínuo e a integração de segurança (DevSecOps) as organizações conseguem atingir um nível de agilidade que antes era impossível. É essa abordagem que permite que grandes plataformas entreguem atualizações constantes com alta confiabilidade e segurança.
 
 Para nós, profissionais de tecnologia, compreender o DevOps é entender o ritmo do mercado atual. O domínio dessas práticas é o que diferencia um desenvolvimento isolado de uma entrega de software de alta performance, focada em gerar valor real para o usuário final de forma rápida, segura e sustentável.
 
+---
 # Bibliografia
 https://about.gitlab.com/topics/devops/
