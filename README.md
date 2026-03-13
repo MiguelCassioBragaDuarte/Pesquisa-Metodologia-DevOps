@@ -1,78 +1,46 @@
-# Pesquisa-Metodologia-DevOps
-Esta pesquisa tem como objetivo desenvolver e ampliar o conhecimento sobre a metodologia de desenvolvimento DevOps.
+# Metodologia DevOps
+---
 
-1. Definição da Metodologia DevOps.
-
-
-# O que é DevOps
+# 1. Definição
 
 O DevOps é uma abordagem que combina **práticas, ferramentas e uma cultura organizacional colaborativa** com o objetivo de integrar as equipes de desenvolvimento de software e operações de TI. Essa integração permite que as empresas **desenvolvam, testem e distribuam aplicações e serviços de forma mais rápida, eficiente e confiável**.
 
 DevOps é uma junção das palavras inglesas **Development (desenvolvimento)** e **Operations (operações)**. Trata-se de uma abordagem cultural e técnica que une as equipes de desenvolvimento de software e de infraestrutura/operações de TI, que tradicionalmente trabalhavam separadamente.
 
-Ao adotar o DevOps, as organizações conseguem **automatizar processos, melhorar a comunicação entre equipes e acelerar o ciclo de desenvolvimento**, possibilitando atualizações e melhorias contínuas nos produtos.
+Ao adotar o DevOps, as organizações conseguem melhorar a comunicação entre equipes e acelerar o ciclo de desenvolvimento, possibilitando atualizações e melhorias contínuas nos produtos.
 
 Diferente dos modelos tradicionais de desenvolvimento e gerenciamento de infraestrutura, o DevOps favorece um **fluxo de trabalho mais ágil e integrado**, o que contribui para:
 
-- Entregas mais frequentes  
-- Maior qualidade do software  
-- Menor tempo de resposta às demandas do mercado  
-
-Como resultado, as empresas conseguem **inovar com mais rapidez, oferecer melhores experiências aos clientes e aumentar sua competitividade** em um ambiente tecnológico cada vez mais dinâmico.
+* Entregas mais frequentes.
+* Maior qualidade do software.
+* Menor tempo de resposta às demandas do mercado.
 
 ---
 
-# Objetivos do DevOps
+# A. Objetivos do DevOps
 
 O DevOps tem como principal objetivo **reduzir o tempo do ciclo de desenvolvimento de sistemas**, permitindo que softwares de alta qualidade sejam entregues com **maior velocidade, confiabilidade e frequência**.
 
-Para isso, essa metodologia busca **eliminar as barreiras entre as equipes de desenvolvimento (Dev) e operações de TI (Ops)**, promovendo uma cultura de **colaboração, integração e automação** em todas as etapas do processo, desde a criação do software até sua implementação em produção.
+Para isso, essa metodologia busca **eliminar as barreiras entre as equipes de desenvolvimento (Dev) e operações de TI (Ops)**, promovendo integração em todas as etapas do processo, desde a criação do software até sua implementação em produção.
 
-## Principais objetivos e benefícios
+## Principais Metas e Benefícios
 
-### Velocidade de entrega
-Possibilita a liberação mais rápida de novas funcionalidades, melhorias e correções, permitindo que as empresas **inovem continuamente e acompanhem as mudanças do mercado com mais agilidade**.
-
-### Confiabilidade e qualidade
-Por meio de práticas como **testes automatizados, integração contínua e monitoramento constante**, o DevOps contribui para aumentar a **estabilidade dos sistemas e garantir maior qualidade nas aplicações entregues**.
-
-### Colaboração e cultura organizacional
-Promove a integração entre equipes que antes trabalhavam de forma separada, incentivando **comunicação eficiente, responsabilidade compartilhada e cooperação entre profissionais**.
-
-### Automação de processos
-Diversas tarefas manuais e repetitivas, como **integração de código, testes e implantação de aplicações**, são automatizadas. Isso **reduz erros humanos, aumenta a produtividade e melhora a eficiência do desenvolvimento**.
-
-### Resposta rápida ao mercado
-Com ciclos de desenvolvimento mais curtos e processos mais flexíveis, as empresas conseguem **adaptar seus produtos rapidamente com base no feedback dos usuários**, mantendo-se competitivas no mercado.
-
-Em resumo, o DevOps busca **otimizar todo o fluxo de desenvolvimento e entrega de software**, garantindo que as organizações consigam fornecer **valor ao cliente de forma mais rápida, segura e eficiente**.
+* **Velocidade de entrega**: Possibilita a liberação mais rápida de novas funcionalidades, melhorias e correções.
+* **Confiabilidade e qualidade**: Por meio de práticas como monitoramento constante e integração, contribui para aumentar a estabilidade dos sistemas.
+* **Colaboração**: Promove a integração entre equipes que antes trabalhavam de forma separada, incentivando o respeito e a cooperação profissional.
+* **Resposta rápida ao mercado**: Com ciclos de desenvolvimento mais curtos, as empresas conseguem adaptar seus produtos rapidamente.
 
 ---
 
-# Por que o DevOps surgiu?
+# B. Por que o DevOps surgiu?
 
-O DevOps surgiu porque o **modelo tradicional de desenvolvimento de software estava gerando muitos problemas dentro das empresas de tecnologia**. Por volta de **2007 e 2008**, profissionais das áreas de desenvolvimento e operações de TI começaram a perceber que a forma como as equipes trabalhavam separadamente estava causando **atrasos, erros frequentes e dificuldades na entrega de software**.
+O DevOps surgiu porque o **modelo tradicional de desenvolvimento de software estava gerando muitos problemas dentro das empresas de tecnologia**. Profissionais das áreas de desenvolvimento e operações perceberam que o isolamento das equipes causava atrasos, erros frequentes e dificuldades na entrega de software.
 
 No modelo antigo:
+* Os desenvolvedores eram responsáveis apenas por criar o código.
+* Outra equipe cuidava de implantar, manter e operar o sistema.
 
-- Os **desenvolvedores** eram responsáveis apenas por **criar o código**  
-- Outra equipe cuidava de **implantar, manter e operar o sistema**
-
-Como essas equipes trabalhavam separadas e tinham **objetivos diferentes**, muitas vezes surgiam conflitos. Além disso, a comunicação entre elas era limitada, o que acabava gerando:
-
-- Retrabalho  
-- Falhas nas versões lançadas  
-- Insatisfação dos usuários  
-
-Percebendo esses problemas, profissionais das duas áreas começaram a discutir maneiras de melhorar essa situação. Pessoas como **Patrick Debois, Gene Kim e John Willis** ajudaram a impulsionar essas conversas em **fóruns, comunidades online e eventos de tecnologia**.
-
-A ideia principal era **aproximar as equipes de desenvolvimento e operações**, incentivando:
-
-- Mais colaboração  
-- Melhor comunicação  
-- Uso de automação nos processos  
-
-Assim começou o movimento DevOps, que hoje é amplamente utilizado por empresas de tecnologia para **entregar softwares com mais rapidez, qualidade e estabilidade**.
+Como essas equipes tinham objetivos diferentes, a comunicação limitada gerava falhas nas versões lançadas e insatisfação dos usuários. O movimento DevOps surgiu para aproximar essas áreas, incentivando a colaboração e o uso de ferramentas digitais para documentar e compartilhar o trabalho.
 
 ---
 
