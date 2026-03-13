@@ -115,8 +115,11 @@ Conforme visualizado na imagem do infinito ($\infty$), o ciclo divide-se entre a
 
 ---
 
-> [!IMPORTANTE]
-> **Por que o Ciclo é Infinito?** O objetivo desta estrutura é criar um fluxo onde o **Monitoramento** (etapa 7) gera dados que retroalimentam o novo **Planejamento** (etapa 1). Isso garante um software sempre disponível, estável e em constante evolução.
+> **IMPORTANTE:**
+> <br>
+> **Por que o Ciclo representa o Infinito?**
+><br>
+> O objetivo desta estrutura é criar um fluxo onde o **Monitoramento** (etapa 7) gera dados que retroalimentam o novo **Planejamento** (etapa 1). Isso garante um software sempre disponível, estável e em constante evolução.
 ---
 
 3. Tipos de projetos mais adequados
