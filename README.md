@@ -74,33 +74,48 @@ A ideia principal era **aproximar as equipes de desenvolvimento e operações**,
 
 Assim começou o movimento DevOps, que hoje é amplamente utilizado por empresas de tecnologia para **entregar softwares com mais rapidez, qualidade e estabilidade**.
 
+---
 
-2. Características principais do DevOps
-O que pesquisar
+## 2. Características e Princípios do DevOps
 
- # princípios do DevOps:
+O **DevOps** não é apenas uma ferramenta, mas uma mudança cultural que une o Desenvolvimento (Dev) e as Operações (Ops). Sua essência está em entregar valor ao cliente de forma rápida, segura e com alta qualidade.
 
-## Integração contínua
+---
 
-## Entrega contínua
+### A. Princípios Fundamentais
 
-## Automação
+Para realizar todo o potencial do DevOps, as equipes seguem estes pilares essenciais:
 
-## Monitoramento constante
+* **Colaboração (Culture):** Quebra os "silos" organizacionais. Desenvolvedores e Operações trabalham como uma única equipe funcional, compartilhando responsabilidades do início ao fim do produto.
+* **Automação:** É o coração do ciclo. Automatizar o ciclo de vida do software reduz erros humanos, aumenta a produtividade e permite respostas rápidas ao feedback.
+* **Melhoria Contínua:** Focada na experimentação e otimização constante de velocidade e custo, garantindo que o software evolua sempre.
+* **Foco no Cliente:** Utiliza ciclos curtos de feedback para criar produtos que resolvam problemas reais, baseando-se em dados de uso real e não apenas suposições.
+* **Criar com o Final em Mente:** As equipes têm uma compreensão holística do produto, da ideia inicial até a sustentação em produção.
 
-## Colaboração entre equipes
+---
 
+### B. O Ciclo de Vida DevOps (DevOps Lifecycle)
 
-# O ciclo DevOps geralmente inclui:
+Conforme visualizado na imagem do infinito ($\infty$), o ciclo divide-se entre as fases de construção e as fases de operação:
 
-1️ Planejar
-2️ Desenvolver
-3️ Integrar
-4️ Testar
-5️ Entregar
-6️ Monitorar
+![Ciclo DevOps DEV e OPS](./image_d8cdb3.jpg)
 
-Esse ciclo é chamado de DevOps Lifecycle.
+#### Lado DEV (Development)
+1.  **Plan (Planejar):** Definição de requisitos, metas e alinhamento com as necessidades do usuário.
+2.  **Create (Criar):** Fase de desenvolvimento, onde o código é escrito e as novas funções ganham forma.
+3.  **Verify (Verificar):** Execução de testes automáticos para garantir a qualidade e segurança do código.
+4.  **Package (Empacotar):** Transformação do código aprovado em um "pacote" pronto para ser implantado (artefato).
+
+#### Lado OPS (Operations)
+5.  **Release (Liberar):** Gerenciamento da entrega da nova versão para o ambiente de destino.
+6.  **Configure (Configurar):** Preparação da infraestrutura, servidores e parâmetros para que o software rode perfeitamente.
+7.  **Monitor (Monitorar):** Acompanhamento em tempo real da performance e da experiência do usuário.
+
+---
+
+> [!IMPORTANTE]
+> **Por que o Ciclo é Infinito?** O objetivo desta estrutura é criar um fluxo onde o **Monitoramento** (etapa 7) gera dados que retroalimentam o novo **Planejamento** (etapa 1). Isso garante um software sempre disponível, estável e em constante evolução.
+---
 
 3. Tipos de projetos mais adequados
 
