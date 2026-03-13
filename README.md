@@ -114,11 +114,15 @@ Essas ferramentas permitem que múltiplos desenvolvedores trabalhem no mesmo có
 </p>
 
 * **GitHub / GitLab**: Plataformas que hospedam os repositórios Git, oferecendo recursos de revisão de código (Pull Requests) e gerenciamento de projetos.
-* 
+
+<div align="center">
+
 | Repositório Local (Git) | Repositório Remoto (GitLab) |
 | :---: | :---: |
-| <img src="./Imagens/Git.png" alt="Exemplo Git" width="400"> | <img src="./Imagens/gitlab.png" alt="Exemplo GitLab" width="400"> |
+| <img src="./Imagens/Git.png" alt="Exemplo Git" width="350"> | <img src="./Imagens/gitlab.png" alt="Exemplo GitLab" width="350"> |
 | *Controle de versão na máquina do desenvolvedor.* | *Plataforma de colaboração e automação na nuvem.* |
+
+</div>
 
 ### 4.2. Integração e Entrega Contínua (CI/CD)
 É o coração da automação DevOps. Elas garantem que cada alteração no código seja testada e preparada para publicação automaticamente.
