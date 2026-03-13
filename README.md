@@ -237,10 +237,10 @@ Scrum	desenvolvimento ágil
 DevOps	integração entre desenvolvimento e operações
 
 
-Casos reais.
+8. Casos reais.
 
 6️ Vantagens e desvantagens
 7️ Comparação com outras metodologias
-8️ Conclusão
+9.Conclusão
 
 Importância do DevOps atualmente.
