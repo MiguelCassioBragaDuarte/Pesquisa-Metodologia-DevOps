@@ -17,13 +17,13 @@ Diferente dos modelos tradicionais de desenvolvimento e gerenciamento de infraes
 
 ---
 
-# A. Objetivos do DevOps
+## A. Objetivos do DevOps
 
 O DevOps tem como principal objetivo **reduzir o tempo do ciclo de desenvolvimento de sistemas**, permitindo que softwares de alta qualidade sejam entregues com **maior velocidade, confiabilidade e frequência**.
 
 Para isso, essa metodologia busca **eliminar as barreiras entre as equipes de desenvolvimento (Dev) e operações de TI (Ops)**, promovendo integração em todas as etapas do processo, desde a criação do software até sua implementação em produção.
 
-## Principais Metas e Benefícios
+### Principais Metas e Benefícios
 
 * **Velocidade de entrega**: Possibilita a liberação mais rápida de novas funcionalidades, melhorias e correções.
 * **Confiabilidade e qualidade**: Por meio de práticas como monitoramento constante e integração, contribui para aumentar a estabilidade dos sistemas.
@@ -32,7 +32,7 @@ Para isso, essa metodologia busca **eliminar as barreiras entre as equipes de de
 
 ---
 
-# B. Por que o DevOps surgiu?
+## B. Por que o DevOps surgiu?
 
 O DevOps surgiu porque o **modelo tradicional de desenvolvimento de software estava gerando muitos problemas dentro das empresas de tecnologia**. Profissionais das áreas de desenvolvimento e operações perceberam que o isolamento das equipes causava atrasos, erros frequentes e dificuldades na entrega de software.
 
@@ -44,13 +44,13 @@ Como essas equipes tinham objetivos diferentes, a comunicação limitada gerava 
 
 ---
 
-## 2. Características e Princípios do DevOps
+# 2. Características e Princípios do DevOps
 
 O **DevOps** não é apenas uma ferramenta, mas uma mudança cultural que une o Desenvolvimento (Dev) e as Operações (Ops). Sua essência está em entregar valor ao cliente de forma rápida, segura e com alta qualidade.
 
 ---
 
-### A. Princípios Fundamentais
+## A. Princípios Fundamentais
 
 Para realizar todo o potencial do DevOps, as equipes seguem estes pilares essenciais:
 
@@ -62,7 +62,7 @@ Para realizar todo o potencial do DevOps, as equipes seguem estes pilares essenc
 
 ---
 
-### B. O Ciclo de Vida DevOps (DevOps Lifecycle)
+## B. O Ciclo de Vida DevOps (DevOps Lifecycle)
 
 Conforme visualizado na imagem do infinito ($\infty$), o ciclo divide-se entre as fases de construção e as fases de operação:
 
@@ -70,13 +70,13 @@ Conforme visualizado na imagem do infinito ($\infty$), o ciclo divide-se entre a
   <img src="./Imagens/Ciclo%20Lifecycle%20.png" alt="Ciclo de Vida DevOps" width="500">
 </p>
 
-#### Lado DEV (Development)
+### Lado DEV (Development)
 1.  **Plan (Planejar):** Definição de requisitos, metas e alinhamento com as necessidades do usuário.
 2.  **Create (Criar):** Fase de desenvolvimento, onde o código é escrito e as novas funções ganham forma.
 3.  **Verify (Verificar):** Execução de testes automáticos para garantir a qualidade e segurança do código.
 4.  **Package (Empacotar):** Transformação do código aprovado em um "pacote" pronto para ser implantado (artefato).
 
-#### Lado OPS (Operations)
+### Lado OPS (Operations)
 5.  **Release (Liberar):** Gerenciamento da entrega da nova versão para o ambiente de destino.
 6.  **Configure (Configurar):** Preparação da infraestrutura, servidores e parâmetros para que o software rode perfeitamente.
 7.  **Monitor (Monitorar):** Acompanhamento em tempo real da performance e da experiência do usuário.
