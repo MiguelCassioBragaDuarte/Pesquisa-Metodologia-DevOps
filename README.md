@@ -105,7 +105,7 @@ O DevOps é a escolha ideal para cenários que exigem escala e evolução consta
 Arquitetura de desenvolvimento das melhores práticas para a execução de desenvolvimento e operações (DevOps)
 
  <p align="center">
-  <img src="./Imagens/Estrutura%20DevOps.png" alt="Estrutura DevOps" width="500">
+  <img src="./Imagens/Estrutura DevOps.png" alt="Estrutura DevOps" width="500">
 </p>
 
 O ecossistema DevOps é composto por uma "corrente" de ferramentas que automatizam o ciclo de vida do software. Com base na representação gráfica da atividade, detalhamos as principais categorias:
@@ -257,3 +257,4 @@ Para nós, profissionais de tecnologia, compreender o DevOps é entender o ritmo
 # Bibliografia
 https://about.gitlab.com/topics/devops/
 https://rtask.thinkr.fr/transform-a-folder-as-git-project-synchronized-on-github-or-gitlab/
+https://docs.gitlab.co.jp/ee/ci/introduction/
