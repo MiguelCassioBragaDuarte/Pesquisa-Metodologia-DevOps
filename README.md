@@ -305,7 +305,7 @@ O DevOps é o motor por trás das maiores plataformas digitais do mundo. Abaixo,
 ### 6.1. Netflix: O Caos como Ferramenta de Teste
 
 <p align="center">
-  <img src="Imagens/Netflix.png" alt="Logo Netflix" width="200">
+  <img src="./Imagens/Netflix.png" alt="Logo Netflix" width="200">
 </p>
 
 A Netflix é pioneira em DevOps e criou o conceito de **Chaos Engineering**. 
@@ -315,7 +315,7 @@ A Netflix é pioneira em DevOps e criou o conceito de **Chaos Engineering**.
 ### 6.2. Amazon: Deploys a cada 11 segundos
 
 <p align="center">
-  <img src="Imagens/Amazon.png" alt="Logo Amazon" width="200">
+  <img src="./Imagens/Amazon.png" alt="Logo Amazon" width="200">
 </p>
 
 A Amazon revolucionou a entrega de software ao migrar de um sistema gigante (monolítico) para milhares de pequenos serviços independentes.
@@ -325,7 +325,7 @@ A Amazon revolucionou a entrega de software ao migrar de um sistema gigante (mon
 ### 6.3. Google e Facebook: Escala Global e Atualizações Invisíveis
 
 <p align="center">
-  <img src="Imagens/Facegoogle.png" alt="Logo Facebook e Google" width="200">
+  <img src="./Imagens/Facegoogle.png" alt="Logo Facebook e Google" width="200">
 </p>
 
 Estas empresas gerenciam infraestruturas que nunca podem parar, utilizando práticas de **SRE (Site Reliability Engineering)**, que é a aplicação do DevOps focada em confiabilidade.
