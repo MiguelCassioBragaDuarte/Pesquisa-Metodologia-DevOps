@@ -376,11 +376,11 @@ AMAZON WEB SERVICES. *What is DevOps?* Disponível em: <https://aws.amazon.com/d
 
 ATLASSIAN. *DevOps.* Disponível em: <https://www.atlassian.com/devops>. Acesso em: 14 mar. 2026.
 
-GITLAB. *DevOps.* Disponível em: <https://about.gitlab.com/topics/devops/>. Acesso em: 14 mar. 2026.
+GITLAB. *DevOps.* Disponível em: <https://about.gitlab.com/topics/devops/>. Acesso em: 13 mar. 2026.
 
-GITLAB. *Introduction to CI/CD.* Disponível em: <https://docs.gitlab.co.jp/ee/ci/introduction>. Acesso em: 14 mar. 2026.
+GITLAB. *Introduction to CI/CD.* Disponível em: <https://docs.gitlab.co.jp/ee/ci/introduction>. Acesso em: 13 mar. 2026.
 
-RED HAT. *O que é DevOps?* Disponível em: <https://www.redhat.com/pt-br/topics/devops>. Acesso em: 14 mar. 2026.
+RED HAT. *O que é DevOps?* Disponível em: <https://www.redhat.com/pt-br/topics/devops>. Acesso em: 13 mar. 2026.
 
 THINKR. *Transform a folder as Git project synchronized on GitHub or GitLab.* Disponível em: <https://rtask.thinkr.fr/transform-a-folder-as-git-project-synchronized-on-github-or-gitlab/>. Acesso em: 14 mar. 2026.
 
