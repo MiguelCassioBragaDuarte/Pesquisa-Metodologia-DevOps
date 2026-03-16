@@ -303,16 +303,31 @@ A adoção do DevOps traz benefícios estratégicos, mas também impõe desafios
 O DevOps é o motor por trás das maiores plataformas digitais do mundo. Abaixo, detalhamos como grandes empresas e projetos específicos utilizam essa metodologia para manter a liderança:
 
 ### 6.1. Netflix: O Caos como Ferramenta de Teste
+
+<p align="center">
+  <img src="Imagens/Netflix.png" alt="Logo Netflix" width="200">
+</p>
+
 A Netflix é pioneira em DevOps e criou o conceito de **Chaos Engineering**. 
 * **Como aplicam**: Eles utilizam uma ferramenta chamada *Chaos Monkey*, que desliga servidores propositalmente em ambiente de produção para testar se o sistema consegue se recuperar sozinho. 
 * **Resultado**: Isso garante que, se um servidor real falhar, o usuário nem perceba, mantendo a alta disponibilidade para milhões de pessoas.
 
 ### 6.2. Amazon: Deploys a cada 11 segundos
+
+<p align="center">
+  <img src="Imagens/Amazon.png" alt="Logo Amazon" width="200">
+</p>
+
 A Amazon revolucionou a entrega de software ao migrar de um sistema gigante (monolítico) para milhares de pequenos serviços independentes.
 * **Como aplicam**: Através de uma automação pesada e cultura de "quem constrói, opera", os desenvolvedores são responsáveis pelo ciclo completo. 
 * **Resultado**: A empresa consegue realizar implantações de código milhares de vezes por dia, permitindo que novas funcionalidades cheguem ao site quase instantaneamente.
 
 ### 6.3. Google e Facebook: Escala Global e Atualizações Invisíveis
+
+<p align="center">
+  <img src="Imagens/Facegoogle.png" alt="Logo Facebook e Google" width="200">
+</p>
+
 Estas empresas gerenciam infraestruturas que nunca podem parar, utilizando práticas de **SRE (Site Reliability Engineering)**, que é a aplicação do DevOps focada em confiabilidade.
 * **Como aplicam**: Utilizam ferramentas de orquestração (como o Kubernetes, que nasceu no Google) para gerenciar bilhões de containers. 
 * **Resultado**: As atualizações de interface ou algoritmos são feitas de forma progressiva e invisível para o usuário final.
