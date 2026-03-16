@@ -1,4 +1,11 @@
+**Unidade:** Senai Nova Lima  
+**Instrutor:** Frederico Martins Aguiar  
+**Integrantes:** Marilene Araujo e Miguel Duarte
+
+---
+
 # Metodologia DevOps
+
 ---
 
 # 1. Definição
